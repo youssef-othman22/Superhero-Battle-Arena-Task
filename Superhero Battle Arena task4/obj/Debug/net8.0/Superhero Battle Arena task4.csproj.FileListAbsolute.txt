@@ -1,0 +1,14 @@
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\bin\Debug\net8.0\Superhero Battle Arena task4.exe
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\bin\Debug\net8.0\Superhero Battle Arena task4.deps.json
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\bin\Debug\net8.0\Superhero Battle Arena task4.runtimeconfig.json
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\bin\Debug\net8.0\Superhero Battle Arena task4.dll
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\bin\Debug\net8.0\Superhero Battle Arena task4.pdb
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\obj\Debug\net8.0\Superhero Battle Arena task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\obj\Debug\net8.0\Superhero Battle Arena task4.AssemblyInfoInputs.cache
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\obj\Debug\net8.0\Superhero Battle Arena task4.AssemblyInfo.cs
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\obj\Debug\net8.0\Superhero Battle Arena task4.csproj.CoreCompileInputs.cache
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\obj\Debug\net8.0\Superhero Battle Arena task4.dll
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\obj\Debug\net8.0\refint\Superhero Battle Arena task4.dll
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\obj\Debug\net8.0\Superhero Battle Arena task4.pdb
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\obj\Debug\net8.0\Superhero Battle Arena task4.genruntimeconfig.cache
+C:\Users\elmohandes\source\repos\CAT_Reloaded_Tasks\Superhero Battle Arena task4\obj\Debug\net8.0\ref\Superhero Battle Arena task4.dll
